@@ -1,3 +1,2 @@
 # hello-world
-hello-world project
-Hello, I'm SnowieOwl
+I've changed readme
